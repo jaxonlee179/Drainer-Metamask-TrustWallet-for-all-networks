@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf) format('truetype');
+}
