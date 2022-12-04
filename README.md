@@ -10,3 +10,8 @@ Drainer Metamask/TrustWallet for all networks
 - Works on mobile devices
 - Supports TrustWallet
 - Support and updating the script, installing on your site or on the site to order
+
+## Contributing
+If you are interested in creating an email or phishing website template, contact me at [twitter or tlgrm]
+## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
+## Contact Me on telegram or twitter: https://twitter.com/MetthewKals / https://t.me/inject_exp#
